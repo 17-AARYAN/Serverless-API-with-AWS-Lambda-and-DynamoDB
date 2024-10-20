@@ -1,0 +1,10 @@
+/serverless-todo-app
+│
+├── /src
+│   ├── createTask.js
+│   ├── updateTask.js
+│   ├── deleteTask.js
+│   └── getTask.js
+├── template.yaml  (AWS SAM template)
+├── README.md
+└── .gitignore
