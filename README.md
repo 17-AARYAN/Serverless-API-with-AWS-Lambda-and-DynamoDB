@@ -13,3 +13,5 @@ AWS API Gateway (Routing)
 AWS DynamoDB (NoSQL Database)
 AWS Cognito (Authentication)
 AWS SAM (Infrastructure as Code)
+
+@Better this Way
